@@ -1,0 +1,5 @@
+F:
+cd F:\Website V2\Website v2.0
+bundle exec jekyll serve
+
+bundle exec jekyll build
